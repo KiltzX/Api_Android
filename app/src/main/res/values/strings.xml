@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Conexão PHP</string>
+    <string name="bemvindo">Bem vindo à API de conexão do Android com o PHP.
+        Esta API visa simplificar a conexão com o php e posteriormente com o MySQL.
+        Modificações nesse projeto:
+        AndroidManifest.xml:
+        Adicionado permissão para uso da Internet e android:name="com.example.senai.api_conexao_android.AppController"
+        Adicionado a classe AppController
+        Autor: Fernando Nakagawa</string>
+    <string name="teste">Teste de Conexão</string>
+    <string name="enviarDados">Envio de Dados</string>
+    <string name="receber">Recebimento de Dados</string>
+    <string name="hintTeste">Digite um texto para enviar para o PHP. Ele deverá voltar duplicado.</string>
+    <string name="enviar">Enviar</string>
+    <string name="resultadoDeveAparecerAqui">O resultado deve aparecer aqui.</string>
+    <string name="cadastro_clientes">Cadastro de Clientes</string>
+    <string name="nome">Nome:</string>
+    <string name="hint_digite_nome">Digite o nome do cliente.</string>
+    <string name="endereco">Endereço:</string>
+    <string name="hint_digite_endereco">Digite o endereço.</string>
+    <string name="telefone">Telefone:</string>
+    <string name="hint_digite_telefone">Digite o telefone</string>
+    <string name="cpf">CPF:</string>
+    <string name="hint_digite_cpf">Digite o CPF.</string>
+    <string name="resposta">Resposta do sistema</string>
+    <string name="sexo">Sexo:</string>
+    <string name="bt_buscar">Buscar</string>
+    <string name="buscarNome">Buscar nome:</string>
+    <string name="tb_cpf">CPF</string>
+    <string name="tb_nome">Nome</string>
+    <string name="tb_endereco">Endereço</string>
+    <string name="tb_telefone">Telefone</string>
+    <string name="erro_busca">Erro na busca!</string>
+</resources>
